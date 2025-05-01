@@ -15,7 +15,6 @@ public class Solution {
             }
         }
         sb.append(count).append(prev.charAt(prev.length() - 1));
-
         return sb.toString();
     }
 
