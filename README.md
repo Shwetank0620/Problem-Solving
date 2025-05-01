@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shwetank0620/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/Shwetank0620/Problem-Solving/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
