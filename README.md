@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Shwetank0620/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shwetank0620/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Math
 |  |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/0165-compare-version-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Shwetank0620/Problem-Solving/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Shwetank0620/Problem-Solving/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
