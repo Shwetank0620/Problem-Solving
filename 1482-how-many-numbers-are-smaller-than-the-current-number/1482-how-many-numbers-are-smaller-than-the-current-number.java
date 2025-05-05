@@ -1,14 +1,18 @@
+import java.util.*;
+
 public class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {
+        int[] sorted = nums.clone();
+        Arrays.sort(sorted);
+        
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int i = 0; i < sorted.length; i++) {
+            map.putIfAbsent(sorted[i], i);  
+        }
+        
         int[] res = new int[nums.length];
         for (int i = 0; i < nums.length; i++) {
-            int count = 0;
-            for (int j = 0; j < nums.length; j++) {
-                if (nums[j] < nums[i]) {
-                    count++;
-                }
-            }
-            res[i] = count;
+            res[i] = map.get(nums[i]);
         }
         return res;
     }
