@@ -1,19 +1,5 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 class TreeNode {
     int val;
@@ -21,7 +7,9 @@ class TreeNode {
     TreeNode() {}
     TreeNode(int val) { this.val = val; }
     TreeNode(int val, TreeNode left, TreeNode right) {
-        this.val = val; this.left = left; this.right = right;
+        this.val = val;
+        this.left = left;
+        this.right = right;
     }
 }
 
@@ -34,8 +22,8 @@ public class Solution {
 
     private void inorderHelper(TreeNode node, List<Integer> result) {
         if (node == null) return;
-        inorderHelper(node.left, result);    
+        inorderHelper(node.left, result);   
         result.add(node.val);               
-        inorderHelper(node.right, result);   
+        inorderHelper(node.right, result);  
     }
 }
