@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Shwetank0620/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shwetank0620/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shwetank0620/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shwetank0620/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/Shwetank0620/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shwetank0620/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shwetank0620/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
