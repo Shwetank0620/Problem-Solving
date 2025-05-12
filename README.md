@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Shwetank0620/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Shwetank0620/Problem-Solving/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shwetank0620/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Shwetank0620/Problem-Solving/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shwetank0620/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Shwetank0620/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shwetank0620/Problem-Solving/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/0165-compare-version-numbers) |
 ## Hash Table
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shwetank0620/Problem-Solving/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Shwetank0620/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
