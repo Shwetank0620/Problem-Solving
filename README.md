@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shwetank0620/Problem-Solving/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Shwetank0620/Problem-Solving/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Shwetank0620/Problem-Solving/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Shwetank0620/Problem-Solving/tree/master/0086-partition-list) |
 | [0165-compare-version-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/0165-compare-version-numbers) |
@@ -134,5 +135,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Shwetank0620/Problem-Solving/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Shwetank0620/Problem-Solving/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
