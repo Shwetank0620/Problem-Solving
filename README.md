@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/Shwetank0620/Problem-Solving/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shwetank0620/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2050-count-good-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0061-rotate-list](https://github.com/Shwetank0620/Problem-Solving/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Shwetank0620/Problem-Solving/tree/master/0086-partition-list) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
