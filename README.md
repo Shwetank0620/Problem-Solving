@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/0496-next-greater-element-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0165-compare-version-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/0496-next-greater-element-i) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2756-buy-two-chocolates](https://github.com/Shwetank0620/Problem-Solving/tree/master/2756-buy-two-chocolates) |
 ## Binary Search
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
