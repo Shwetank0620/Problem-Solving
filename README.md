@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Shwetank0620/Problem-Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shwetank0620/Problem-Solving/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/Shwetank0620/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shwetank0620/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2050-count-good-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/2050-count-good-numbers) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0038-count-and-say](https://github.com/Shwetank0620/Problem-Solving/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Shwetank0620/Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/0165-compare-version-numbers) |
+| [0168-excel-sheet-column-title](https://github.com/Shwetank0620/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Shwetank0620/Problem-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Two Pointers
