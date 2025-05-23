@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Shwetank0620/Problem-Solving/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Shwetank0620/Problem-Solving/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shwetank0620/Problem-Solving/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Shwetank0620/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Shwetank0620/Problem-Solving/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
