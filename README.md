@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shwetank0620/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/1580-shuffle-the-array) |
+| [1651-shuffle-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/1651-shuffle-string) |
 | [2756-buy-two-chocolates](https://github.com/Shwetank0620/Problem-Solving/tree/master/2756-buy-two-chocolates) |
 ## Math
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Shwetank0620/Problem-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1651-shuffle-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/1651-shuffle-string) |
 ## Two Pointers
 |  |
 | ------- |
