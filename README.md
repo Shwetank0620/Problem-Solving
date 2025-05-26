@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shwetank0620/Problem-Solving/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Shwetank0620/Problem-Solving/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Shwetank0620/Problem-Solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shwetank0620/Problem-Solving/tree/master/0053-maximum-subarray) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
