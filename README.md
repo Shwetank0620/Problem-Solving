@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1580-shuffle-the-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/1651-shuffle-string) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2756-buy-two-chocolates](https://github.com/Shwetank0620/Problem-Solving/tree/master/2756-buy-two-chocolates) |
 ## Math
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shwetank0620/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2050-count-good-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/2050-count-good-numbers) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Shwetank0620/Problem-Solving/tree/master/0954-maximum-sum-circular-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
