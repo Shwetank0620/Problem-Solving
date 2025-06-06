@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Shwetank0620/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shwetank0620/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/Shwetank0620/Problem-Solving/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/Shwetank0620/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0886-score-of-parentheses](https://github.com/Shwetank0620/Problem-Solving/tree/master/0886-score-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Shwetank0620/Problem-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shwetank0620/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Shwetank0620/Problem-Solving/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
 | [2058-concatenation-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2058-concatenation-of-array) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shwetank0620/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
