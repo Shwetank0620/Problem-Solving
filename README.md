@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1580-shuffle-the-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/1651-shuffle-string) |
+| [1760-check-array-formation-through-concatenation](https://github.com/Shwetank0620/Problem-Solving/tree/master/1760-check-array-formation-through-concatenation) |
 | [2058-concatenation-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2756-buy-two-chocolates](https://github.com/Shwetank0620/Problem-Solving/tree/master/2756-buy-two-chocolates) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/Shwetank0620/Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shwetank0620/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1760-check-array-formation-through-concatenation](https://github.com/Shwetank0620/Problem-Solving/tree/master/1760-check-array-formation-through-concatenation) |
 ## Sorting
 |  |
 | ------- |
