@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Shwetank0620/Problem-Solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shwetank0620/Problem-Solving/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shwetank0620/Problem-Solving/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Shwetank0620/Problem-Solving/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Shwetank0620/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/Shwetank0620/Problem-Solving/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Shwetank0620/Problem-Solving/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
