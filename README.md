@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Shwetank0620/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Shwetank0620/Problem-Solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shwetank0620/Problem-Solving/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shwetank0620/Problem-Solving/tree/master/0066-plus-one) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Shwetank0620/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Shwetank0620/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Shwetank0620/Problem-Solving/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Shwetank0620/Problem-Solving/tree/master/0058-length-of-last-word) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Shwetank0620/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Shwetank0620/Problem-Solving/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Shwetank0620/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Shwetank0620/Problem-Solving/tree/master/0141-linked-list-cycle) |
