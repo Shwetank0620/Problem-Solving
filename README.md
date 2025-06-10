@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Shwetank0620/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Shwetank0620/Problem-Solving/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Shwetank0620/Problem-Solving/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Shwetank0620/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/Shwetank0620/Problem-Solving/tree/master/0224-basic-calculator) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Shwetank0620/Problem-Solving/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Shwetank0620/Problem-Solving/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Shwetank0620/Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/Shwetank0620/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
