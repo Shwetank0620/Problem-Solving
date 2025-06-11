@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shwetank0620/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2050-count-good-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Shwetank0620/Problem-Solving/tree/master/2298-count-integers-with-even-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
 | [2058-concatenation-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2058-concatenation-of-array) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Shwetank0620/Problem-Solving/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Design
 |  |
 | ------- |
