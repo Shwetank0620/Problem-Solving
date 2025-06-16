@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1646-kth-missing-positive-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/1651-shuffle-string) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Shwetank0620/Problem-Solving/tree/master/1760-check-array-formation-through-concatenation) |
+| [1848-sum-of-unique-elements](https://github.com/Shwetank0620/Problem-Solving/tree/master/1848-sum-of-unique-elements) |
 | [2058-concatenation-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/2331-intersection-of-multiple-arrays) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shwetank0620/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Shwetank0620/Problem-Solving/tree/master/1760-check-array-formation-through-concatenation) |
+| [1848-sum-of-unique-elements](https://github.com/Shwetank0620/Problem-Solving/tree/master/1848-sum-of-unique-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/2331-intersection-of-multiple-arrays) |
 | [2892-check-if-array-is-good](https://github.com/Shwetank0620/Problem-Solving/tree/master/2892-check-if-array-is-good) |
 ## Sorting
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shwetank0620/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Shwetank0620/Problem-Solving/tree/master/1848-sum-of-unique-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/2331-intersection-of-multiple-arrays) |
 ## Counting Sort
 |  |
