@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shwetank0620/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Shwetank0620/Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Shwetank0620/Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shwetank0620/Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
 ## Linked List
 |  |
@@ -282,4 +284,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Shwetank0620/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Shwetank0620/Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
