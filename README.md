@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2058-concatenation-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/2331-intersection-of-multiple-arrays) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Shwetank0620/Problem-Solving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2756-buy-two-chocolates](https://github.com/Shwetank0620/Problem-Solving/tree/master/2756-buy-two-chocolates) |
 | [2854-decremental-string-concatenation](https://github.com/Shwetank0620/Problem-Solving/tree/master/2854-decremental-string-concatenation) |
 | [2892-check-if-array-is-good](https://github.com/Shwetank0620/Problem-Solving/tree/master/2892-check-if-array-is-good) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/2331-intersection-of-multiple-arrays) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Shwetank0620/Problem-Solving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2756-buy-two-chocolates](https://github.com/Shwetank0620/Problem-Solving/tree/master/2756-buy-two-chocolates) |
 | [2892-check-if-array-is-good](https://github.com/Shwetank0620/Problem-Solving/tree/master/2892-check-if-array-is-good) |
 ## Binary Search
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Shwetank0620/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/2154-minimum-moves-to-convert-string) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Shwetank0620/Problem-Solving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2756-buy-two-chocolates](https://github.com/Shwetank0620/Problem-Solving/tree/master/2756-buy-two-chocolates) |
 ## Stack
 |  |
