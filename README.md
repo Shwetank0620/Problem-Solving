@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Shwetank0620/Problem-Solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shwetank0620/Problem-Solving/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shwetank0620/Problem-Solving/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Shwetank0620/Problem-Solving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shwetank0620/Problem-Solving/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Shwetank0620/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/Shwetank0620/Problem-Solving/tree/master/0224-basic-calculator) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Shwetank0620/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Shwetank0620/Problem-Solving/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Shwetank0620/Problem-Solving/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Shwetank0620/Problem-Solving/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Shwetank0620/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shwetank0620/Problem-Solving/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Shwetank0620/Problem-Solving/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Shwetank0620/Problem-Solving/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Design
