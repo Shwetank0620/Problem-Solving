@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0932-monotonic-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0932-monotonic-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Shwetank0620/Problem-Solving/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shwetank0620/Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Shwetank0620/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
