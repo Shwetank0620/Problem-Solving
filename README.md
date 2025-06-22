@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2756-buy-two-chocolates](https://github.com/Shwetank0620/Problem-Solving/tree/master/2756-buy-two-chocolates) |
 | [2854-decremental-string-concatenation](https://github.com/Shwetank0620/Problem-Solving/tree/master/2854-decremental-string-concatenation) |
 | [2892-check-if-array-is-good](https://github.com/Shwetank0620/Problem-Solving/tree/master/2892-check-if-array-is-good) |
+| [3324-split-the-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/3324-split-the-array) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1848-sum-of-unique-elements](https://github.com/Shwetank0620/Problem-Solving/tree/master/1848-sum-of-unique-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/2331-intersection-of-multiple-arrays) |
 | [2892-check-if-array-is-good](https://github.com/Shwetank0620/Problem-Solving/tree/master/2892-check-if-array-is-good) |
+| [3324-split-the-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/3324-split-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shwetank0620/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Shwetank0620/Problem-Solving/tree/master/1848-sum-of-unique-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/2331-intersection-of-multiple-arrays) |
+| [3324-split-the-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/3324-split-the-array) |
 ## Counting Sort
 |  |
 | ------- |
