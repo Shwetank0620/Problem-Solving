@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/Shwetank0620/Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Shwetank0620/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shwetank0620/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Shwetank0620/Problem-Solving/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shwetank0620/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/1580-shuffle-the-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/Shwetank0620/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/Shwetank0620/Problem-Solving/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Shwetank0620/Problem-Solving/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shwetank0620/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2050-count-good-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Shwetank0620/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Shwetank0620/Problem-Solving/tree/master/0303-range-sum-query-immutable) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Shwetank0620/Problem-Solving/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
