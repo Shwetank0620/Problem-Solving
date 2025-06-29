@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/Shwetank0620/Problem-Solving/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shwetank0620/Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Shwetank0620/Problem-Solving/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Shwetank0620/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Shwetank0620/Problem-Solving/tree/master/0203-remove-linked-list-elements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shwetank0620/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
