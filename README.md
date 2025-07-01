@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1651-shuffle-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/1651-shuffle-string) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Shwetank0620/Problem-Solving/tree/master/1760-check-array-formation-through-concatenation) |
 | [1848-sum-of-unique-elements](https://github.com/Shwetank0620/Problem-Solving/tree/master/1848-sum-of-unique-elements) |
+| [1968-maximum-building-height](https://github.com/Shwetank0620/Problem-Solving/tree/master/1968-maximum-building-height) |
 | [2058-concatenation-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/2331-intersection-of-multiple-arrays) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1349-check-if-it-is-a-straight-line](https://github.com/Shwetank0620/Problem-Solving/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shwetank0620/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shwetank0620/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1968-maximum-building-height](https://github.com/Shwetank0620/Problem-Solving/tree/master/1968-maximum-building-height) |
 | [2050-count-good-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Shwetank0620/Problem-Solving/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1968-maximum-building-height](https://github.com/Shwetank0620/Problem-Solving/tree/master/1968-maximum-building-height) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/2331-intersection-of-multiple-arrays) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Shwetank0620/Problem-Solving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2756-buy-two-chocolates](https://github.com/Shwetank0620/Problem-Solving/tree/master/2756-buy-two-chocolates) |
