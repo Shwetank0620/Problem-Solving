@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0394-decode-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0394-decode-string) |
 | [0541-reverse-string-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Shwetank0620/Problem-Solving/tree/master/0886-score-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Shwetank0620/Problem-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1651-shuffle-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/1651-shuffle-string) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shwetank0620/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Shwetank0620/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/2154-minimum-moves-to-convert-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Shwetank0620/Problem-Solving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/Shwetank0620/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Shwetank0620/Problem-Solving/tree/master/0886-score-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Shwetank0620/Problem-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Tree
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/Shwetank0620/Problem-Solving/tree/master/0198-house-robber) |
+| [0678-valid-parenthesis-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Shwetank0620/Problem-Solving/tree/master/0954-maximum-sum-circular-subarray) |
 | [2854-decremental-string-concatenation](https://github.com/Shwetank0620/Problem-Solving/tree/master/2854-decremental-string-concatenation) |
 ## Sliding Window
