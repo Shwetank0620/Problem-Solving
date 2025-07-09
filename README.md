@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Shwetank0620/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
+| [0214-shortest-palindrome](https://github.com/Shwetank0620/Problem-Solving/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Shwetank0620/Problem-Solving/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
@@ -348,4 +349,16 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Shwetank0620/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Shwetank0620/Problem-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Shwetank0620/Problem-Solving/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Shwetank0620/Problem-Solving/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Shwetank0620/Problem-Solving/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
