@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Shwetank0620/Problem-Solving/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0932-monotonic-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0932-monotonic-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Shwetank0620/Problem-Solving/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shwetank0620/Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/Shwetank0620/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Shwetank0620/Problem-Solving/tree/master/0886-score-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Shwetank0620/Problem-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 ## Matrix
 |  |
 | ------- |
