@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1651-shuffle-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/1651-shuffle-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/2154-minimum-moves-to-convert-string) |
 | [2854-decremental-string-concatenation](https://github.com/Shwetank0620/Problem-Solving/tree/master/2854-decremental-string-concatenation) |
+| [3396-valid-word](https://github.com/Shwetank0620/Problem-Solving/tree/master/3396-valid-word) |
 ## Two Pointers
 |  |
 | ------- |
