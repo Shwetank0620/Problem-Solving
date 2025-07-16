@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2854-decremental-string-concatenation](https://github.com/Shwetank0620/Problem-Solving/tree/master/2854-decremental-string-concatenation) |
 | [2892-check-if-array-is-good](https://github.com/Shwetank0620/Problem-Solving/tree/master/2892-check-if-array-is-good) |
 | [3324-split-the-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/3324-split-the-array) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Math
 |  |
 | ------- |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Shwetank0620/Problem-Solving/tree/master/0954-maximum-sum-circular-subarray) |
 | [2854-decremental-string-concatenation](https://github.com/Shwetank0620/Problem-Solving/tree/master/2854-decremental-string-concatenation) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sliding Window
 |  |
 | ------- |
