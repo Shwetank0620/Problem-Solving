@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1968-maximum-building-height](https://github.com/Shwetank0620/Problem-Solving/tree/master/1968-maximum-building-height) |
 | [2058-concatenation-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Shwetank0620/Problem-Solving/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/2331-intersection-of-multiple-arrays) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Shwetank0620/Problem-Solving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2756-buy-two-chocolates](https://github.com/Shwetank0620/Problem-Solving/tree/master/2756-buy-two-chocolates) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/Shwetank0620/Problem-Solving/tree/master/0198-house-robber) |
 | [0678-valid-parenthesis-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Shwetank0620/Problem-Solving/tree/master/0954-maximum-sum-circular-subarray) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Shwetank0620/Problem-Solving/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2854-decremental-string-concatenation](https://github.com/Shwetank0620/Problem-Solving/tree/master/2854-decremental-string-concatenation) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -401,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shwetank0620/Problem-Solving/tree/master/0100-same-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Shwetank0620/Problem-Solving/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 <!---LeetCode Topics End-->
