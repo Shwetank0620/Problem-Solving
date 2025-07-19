@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Shwetank0620/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shwetank0620/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Shwetank0620/Problem-Solving/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shwetank0620/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shwetank0620/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/1580-shuffle-the-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Shwetank0620/Problem-Solving/tree/master/0886-score-of-parentheses) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shwetank0620/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Shwetank0620/Problem-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1651-shuffle-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/1651-shuffle-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/2154-minimum-moves-to-convert-string) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Shwetank0620/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shwetank0620/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shwetank0620/Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shwetank0620/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -407,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Shwetank0620/Problem-Solving/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shwetank0620/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
