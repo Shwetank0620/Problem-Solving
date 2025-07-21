@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/Shwetank0620/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shwetank0620/Problem-Solving/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Shwetank0620/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Shwetank0620/Problem-Solving/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shwetank0620/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Shwetank0620/Problem-Solving/tree/master/0075-sort-colors) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/Shwetank0620/Problem-Solving/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Shwetank0620/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shwetank0620/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shwetank0620/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shwetank0620/Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Shwetank0620/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shwetank0620/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0119-pascals-triangle-ii) |
