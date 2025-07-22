@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1646-kth-missing-positive-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/1651-shuffle-string) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Shwetank0620/Problem-Solving/tree/master/1760-check-array-formation-through-concatenation) |
+| [1813-maximum-erasure-value](https://github.com/Shwetank0620/Problem-Solving/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/Shwetank0620/Problem-Solving/tree/master/1848-sum-of-unique-elements) |
 | [1968-maximum-building-height](https://github.com/Shwetank0620/Problem-Solving/tree/master/1968-maximum-building-height) |
 | [2058-concatenation-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2058-concatenation-of-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shwetank0620/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Shwetank0620/Problem-Solving/tree/master/1760-check-array-formation-through-concatenation) |
+| [1813-maximum-erasure-value](https://github.com/Shwetank0620/Problem-Solving/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/Shwetank0620/Problem-Solving/tree/master/1848-sum-of-unique-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/2331-intersection-of-multiple-arrays) |
 | [2892-check-if-array-is-good](https://github.com/Shwetank0620/Problem-Solving/tree/master/2892-check-if-array-is-good) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Shwetank0620/Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
+| [1813-maximum-erasure-value](https://github.com/Shwetank0620/Problem-Solving/tree/master/1813-maximum-erasure-value) |
 ## Prefix Sum
 |  |
 | ------- |
