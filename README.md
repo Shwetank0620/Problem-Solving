@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2058-concatenation-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Shwetank0620/Problem-Solving/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/2331-intersection-of-multiple-arrays) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Shwetank0620/Problem-Solving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2756-buy-two-chocolates](https://github.com/Shwetank0620/Problem-Solving/tree/master/2756-buy-two-chocolates) |
