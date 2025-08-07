@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3324-split-the-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/3324-split-the-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Shwetank0620/Problem-Solving/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Math
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Shwetank0620/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shwetank0620/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Shwetank0620/Problem-Solving/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2854-decremental-string-concatenation](https://github.com/Shwetank0620/Problem-Solving/tree/master/2854-decremental-string-concatenation) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Shwetank0620/Problem-Solving/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Sliding Window
 |  |
 | ------- |
