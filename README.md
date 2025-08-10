@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/Shwetank0620/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/Shwetank0620/Problem-Solving/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
+| [0900-reordered-power-of-2](https://github.com/Shwetank0620/Problem-Solving/tree/master/0900-reordered-power-of-2) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Shwetank0620/Problem-Solving/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shwetank0620/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shwetank0620/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Shwetank0620/Problem-Solving/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0900-reordered-power-of-2](https://github.com/Shwetank0620/Problem-Solving/tree/master/0900-reordered-power-of-2) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shwetank0620/Problem-Solving/tree/master/0966-binary-subarrays-with-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shwetank0620/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0900-reordered-power-of-2](https://github.com/Shwetank0620/Problem-Solving/tree/master/0900-reordered-power-of-2) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1968-maximum-building-height](https://github.com/Shwetank0620/Problem-Solving/tree/master/1968-maximum-building-height) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/2331-intersection-of-multiple-arrays) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Shwetank0620/Problem-Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0900-reordered-power-of-2](https://github.com/Shwetank0620/Problem-Solving/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shwetank0620/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Shwetank0620/Problem-Solving/tree/master/1848-sum-of-unique-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/2331-intersection-of-multiple-arrays) |
@@ -438,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shwetank0620/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Shwetank0620/Problem-Solving/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
