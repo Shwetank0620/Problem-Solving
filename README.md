@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/Shwetank0620/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/Shwetank0620/Problem-Solving/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Shwetank0620/Problem-Solving/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/Shwetank0620/Problem-Solving/tree/master/0900-reordered-power-of-2) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Shwetank0620/Problem-Solving/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shwetank0620/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Shwetank0620/Problem-Solving/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Shwetank0620/Problem-Solving/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Greedy
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/Shwetank0620/Problem-Solving/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Shwetank0620/Problem-Solving/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/Shwetank0620/Problem-Solving/tree/master/0224-basic-calculator) |
+| [0342-power-of-four](https://github.com/Shwetank0620/Problem-Solving/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/2050-count-good-numbers) |
 ## Queue
