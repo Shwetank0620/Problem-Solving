@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1349-check-if-it-is-a-straight-line](https://github.com/Shwetank0620/Problem-Solving/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shwetank0620/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shwetank0620/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1448-maximum-69-number) |
 | [1968-maximum-building-height](https://github.com/Shwetank0620/Problem-Solving/tree/master/1968-maximum-building-height) |
 | [2050-count-good-numbers](https://github.com/Shwetank0620/Problem-Solving/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/Shwetank0620/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Shwetank0620/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1448-maximum-69-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shwetank0620/Problem-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/2154-minimum-moves-to-convert-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Shwetank0620/Problem-Solving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
