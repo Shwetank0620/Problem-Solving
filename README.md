@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shwetank0620/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Shwetank0620/Problem-Solving/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shwetank0620/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Shwetank0620/Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shwetank0620/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shwetank0620/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Shwetank0620/Problem-Solving/tree/master/1580-shuffle-the-array) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/Shwetank0620/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Shwetank0620/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shwetank0620/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Shwetank0620/Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Shwetank0620/Problem-Solving/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Divide and Conquer
 |  |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/Shwetank0620/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Shwetank0620/Problem-Solving/tree/master/0954-maximum-sum-circular-subarray) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Shwetank0620/Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Shwetank0620/Problem-Solving/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2854-decremental-string-concatenation](https://github.com/Shwetank0620/Problem-Solving/tree/master/2854-decremental-string-concatenation) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Shwetank0620/Problem-Solving/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
