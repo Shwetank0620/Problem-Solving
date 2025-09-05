@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/Shwetank0620/Problem-Solving/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Shwetank0620/Problem-Solving/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Shwetank0620/Problem-Solving/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Shwetank0620/Problem-Solving/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -463,4 +464,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Shwetank0620/Problem-Solving/tree/master/0900-reordered-power-of-2) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Shwetank0620/Problem-Solving/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Shwetank0620/Problem-Solving/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
